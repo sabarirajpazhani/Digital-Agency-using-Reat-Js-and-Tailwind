@@ -38,8 +38,8 @@ function CallToAction() {
                 Find the perfect team to realise your business Gols!
                </span>
                <h2 class="mb-6 text-3xl font-bold leading-tight text-white sm:mb-8 sm:text-[38px] lg:mb-0">
-                    Get started Today and let us <br class="xs:block hidden" /> 
-                    Take Care of the <span className='text-5xl text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400'>Rest!</span>
+               Schedule a service today and<br class="xs:block hidden" /> 
+               let us handle the<span className='text-5xl text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400'>Rest!</span>
                 </h2>
             </motion.div>
             <div class="w-full px-4 lg:w-1/2">
